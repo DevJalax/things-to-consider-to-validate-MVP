@@ -1,0 +1,1 @@
+# things-to-consider-to-validate-MVP
